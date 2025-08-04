@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\sensor">
+      <UniqueIdentifier>{bc978424-ec44-42fd-9b3e-7bcec1dad5db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\sensor">
+      <UniqueIdentifier>{009559b7-6121-4d51-a3cb-6181f755b4a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\sensor\asx340">
+      <UniqueIdentifier>{fad025bc-b7d4-4bd3-9ccc-dff528a99986}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\sensor\isx016">
+      <UniqueIdentifier>{8db3cf72-c1e1-4145-b48a-15641b0cb3be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\sensor\isx019">
+      <UniqueIdentifier>{4acb87c7-9294-4f0d-8871-3969063e47fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\sensor\isx019a">
+      <UniqueIdentifier>{efb10e82-b7dd-42f7-bcd8-e00ba0e3dc92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\sensor\isx031">
+      <UniqueIdentifier>{46e917b8-5cd1-41e2-9e1c-6089c0752fb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\sensor\ov7958">
+      <UniqueIdentifier>{26c8c2d9-35e8-4439-9d48-825de4e342a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\sensor\ox01e10">
+      <UniqueIdentifier>{3608b94d-55e9-4f2b-a34c-7de391380d03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\sensor\ox03j10">
+      <UniqueIdentifier>{5d17a69b-b6e7-4d0e-a9df-56ab686f7928}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\sensor\sc121at">
+      <UniqueIdentifier>{b7a790de-b73e-46d1-9222-1419c5d95131}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\sensor\sc220at">
+      <UniqueIdentifier>{bd2b13db-49ed-41b5-b604-ffa3d0a09334}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\sensor\sc233at">
+      <UniqueIdentifier>{1c09d872-d532-49eb-b1b9-7d2878bdee12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\sensor\asx340">
+      <UniqueIdentifier>{d5671d13-3fd7-40e2-b838-c51105f0f2b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\sensor\isx016">
+      <UniqueIdentifier>{4213c9dd-2ff2-481a-8b77-4d9c9ede6270}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\sensor\isx019">
+      <UniqueIdentifier>{3a10c1c9-f8bb-4ce1-850e-954850a8f02b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\sensor\isx019a">
+      <UniqueIdentifier>{f785fc04-abd3-4d1b-9017-ac6d85a919bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\sensor\isx031">
+      <UniqueIdentifier>{5b8b20c2-05f6-4e3d-9c2c-8c874d381de2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\sensor\ov7958">
+      <UniqueIdentifier>{df5f8c64-81d5-4479-a30d-0a076a45100c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\sensor\ox01e10">
+      <UniqueIdentifier>{6b69fd50-22f5-4803-a599-00ab21bdabea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\sensor\ox03j10">
+      <UniqueIdentifier>{dd48fc84-149b-4beb-b6e2-9cf36cb483af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\sensor\sc121at">
+      <UniqueIdentifier>{70964d87-e7e8-44b4-ade0-88a4c00f6609}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\sensor\sc220at">
+      <UniqueIdentifier>{26ca35e0-be1a-466f-8614-89b2841ca178}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\sensor\sc233at">
+      <UniqueIdentifier>{88372e5b-6b88-42d0-9f69-a90d8abbfe35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\misc">
+      <UniqueIdentifier>{4b8e020f-366c-4965-a0ac-f95a91114059}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\utils">
+      <UniqueIdentifier>{597213cd-3fb0-49d0-a68c-a72880f13a12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\utils">
+      <UniqueIdentifier>{7139818a-f979-4e05-a8a1-44ed90b44cfe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\utils\ihex">
+      <UniqueIdentifier>{3a025cc6-28e3-4bee-a45a-5475e15705b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\utils\ihex">
+      <UniqueIdentifier>{623a394e-61df-4218-b606-43b2b532667d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="sensor\asx340\asx340.h">
+      <Filter>头文件\sensor\asx340</Filter>
+    </ClInclude>
+    <ClInclude Include="sensor\isx016\isx016.h">
+      <Filter>头文件\sensor\isx016</Filter>
+    </ClInclude>
+    <ClInclude Include="sensor\isx019\isx019.h">
+      <Filter>头文件\sensor\isx019</Filter>
+    </ClInclude>
+    <ClInclude Include="sensor\isx019a\isx019a.h">
+      <Filter>头文件\sensor\isx019a</Filter>
+    </ClInclude>
+    <ClInclude Include="sensor\isx031\isx031.h">
+      <Filter>头文件\sensor\isx031</Filter>
+    </ClInclude>
+    <ClInclude Include="sensor\sc233at\sc233at.h">
+      <Filter>头文件\sensor\sc233at</Filter>
+    </ClInclude>
+    <ClInclude Include="sensor\sc220at\sc220at.h">
+      <Filter>头文件\sensor\sc220at</Filter>
+    </ClInclude>
+    <ClInclude Include="sensor\sc121at\sc121at.h">
+      <Filter>头文件\sensor\sc121at</Filter>
+    </ClInclude>
+    <ClInclude Include="sensor\ox03j10\ox03j10.h">
+      <Filter>头文件\sensor\ox03j10</Filter>
+    </ClInclude>
+    <ClInclude Include="sensor\ox01e10\ox01e10.h">
+      <Filter>头文件\sensor\ox01e10</Filter>
+    </ClInclude>
+    <ClInclude Include="sensor\ov7958\ov7958.h">
+      <Filter>头文件\sensor\ov7958</Filter>
+    </ClInclude>
+    <ClInclude Include="sensor\base.h">
+      <Filter>头文件\sensor</Filter>
+    </ClInclude>
+    <ClInclude Include="misc\exports.h">
+      <Filter>头文件\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="utils\ihex\kk_ihex.h">
+      <Filter>头文件\utils\ihex</Filter>
+    </ClInclude>
+    <ClInclude Include="utils\ihex\kk_ihex_read.h">
+      <Filter>头文件\utils\ihex</Filter>
+    </ClInclude>
+    <ClInclude Include="utils\ihex\kk_ihex_write.h">
+      <Filter>头文件\utils\ihex</Filter>
+    </ClInclude>
+    <ClInclude Include="libisp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="sensor\asx340\asx340.cpp">
+      <Filter>源文件\sensor\asx340</Filter>
+    </ClCompile>
+    <ClCompile Include="sensor\isx016\isx016.cpp">
+      <Filter>源文件\sensor\isx016</Filter>
+    </ClCompile>
+    <ClCompile Include="sensor\isx019\isx019.cpp">
+      <Filter>源文件\sensor\isx019</Filter>
+    </ClCompile>
+    <ClCompile Include="sensor\isx019a\isx019a.cpp">
+      <Filter>源文件\sensor\isx019a</Filter>
+    </ClCompile>
+    <ClCompile Include="sensor\isx031\isx031.cpp">
+      <Filter>源文件\sensor\isx031</Filter>
+    </ClCompile>
+    <ClCompile Include="sensor\sc233at\sc233at.cpp">
+      <Filter>源文件\sensor\sc233at</Filter>
+    </ClCompile>
+    <ClCompile Include="sensor\sc220at\sc220at.cpp">
+      <Filter>源文件\sensor\sc220at</Filter>
+    </ClCompile>
+    <ClCompile Include="sensor\sc121at\sc121at.cpp">
+      <Filter>源文件\sensor\sc121at</Filter>
+    </ClCompile>
+    <ClCompile Include="sensor\ox03j10\ox03j10.cpp">
+      <Filter>源文件\sensor\ox03j10</Filter>
+    </ClCompile>
+    <ClCompile Include="sensor\ox01e10\ox01e10.cpp">
+      <Filter>源文件\sensor\ox01e10</Filter>
+    </ClCompile>
+    <ClCompile Include="sensor\ov7958\ov7958.cpp">
+      <Filter>源文件\sensor\ov7958</Filter>
+    </ClCompile>
+    <ClCompile Include="sensor\base.cpp">
+      <Filter>源文件\sensor</Filter>
+    </ClCompile>
+    <ClCompile Include="utils\ihex\kk_ihex.c">
+      <Filter>源文件\utils\ihex</Filter>
+    </ClCompile>
+    <ClCompile Include="utils\ihex\kk_ihex_read.c">
+      <Filter>源文件\utils\ihex</Filter>
+    </ClCompile>
+    <ClCompile Include="utils\ihex\kk_ihex_write.c">
+      <Filter>源文件\utils\ihex</Filter>
+    </ClCompile>
+    <ClCompile Include="libisp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
